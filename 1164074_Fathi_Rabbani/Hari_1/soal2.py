@@ -1,4 +1,4 @@
-import shapefile 
+import shapefile
 w=shapefile.Writer(shapeType=1) 
 w.shapeType 
 
