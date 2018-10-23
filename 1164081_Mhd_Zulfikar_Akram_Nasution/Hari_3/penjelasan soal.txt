@@ -1,0 +1,5 @@
+pada soal nomor 4 menghasilkan titik pada koordinat(1,1)dan(2,2)
+dengan warna yang berbeda pada soal 1.
+
+pada soal nomor 5 menghasilkan sebuah polyline sesuai pada titik
+koordinat yang ada pada soal.
