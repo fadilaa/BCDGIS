@@ -11,4 +11,4 @@ w.record("ngok","dua")
 w.point(1,1)                            #Membuat koordinat berbentuk point/titik
 w.point(2,2)
 
-w.save("soal4")                         #Untuk menyimpan file menjadi file shp pada soal4
+w.save("soal4")                         #Untuk menyimpan file menjadi file shp dengan nama file soal4.shp
