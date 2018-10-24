@@ -10,4 +10,4 @@ w.record("ngek","satu")									#Kolom yang dibuat akan diisikan Recordnya sesua
 
 w.line(parts=[[[1,5],[5,5],[5,1],[3,3],[1,1]]])			#Membuat koordinat berbentuk line/garis
 
-w.save("soal5")											#Untuk menyimpan file menjadi file shp pada soal5
+w.save("soal5")											#Untuk menyimpan file menjadi file shp dengan nama file soal5.shp

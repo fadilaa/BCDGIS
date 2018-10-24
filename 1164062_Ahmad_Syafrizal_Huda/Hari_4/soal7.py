@@ -7,6 +7,6 @@ w.field("kolom2","C")
 
 w.record("ngek","satu")													#Kolom yang dibuat akan diisikan Recordnya sesuai dengan kolom yang ada
 
-w.poly(parts=[[[1,3],[5,3],[1,2],[5,2]]],shapeType=shapefile.POLYLINE)  #Membuat koordinat berbentuk polyline
+w.poly(parts=[[[1,3],[5,3],[1,2],[5,2]]],shapeType=shapefile.POLYLINE)  #Membuat koordinat berbentuk polyline seperti huruf Z atau zigzag
 
-w.save("soal7")															#Untuk menyimpan file menjadi file shp pada soal7
+w.save("soal7")															#Untuk menyimpan file menjadi file shp dengan nama file soal7.shp

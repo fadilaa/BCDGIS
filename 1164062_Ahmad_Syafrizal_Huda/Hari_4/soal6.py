@@ -9,4 +9,4 @@ w.record("ngek","satu")													#Kolom yang dibuat akan diisikan Recordnya s
 
 w.poly(parts=[[[1,3],[5,3]]], shapeType=shapefile.POLYLINE)				#Membuat koordinat berbentuk polyline seperti garis lurus horizontal
 
-w.save("soal6")															#Untuk menyimpan file menjadi file shp pada soal6
+w.save("soal6")															#Untuk menyimpan file menjadi file shp dengan nama file soal6.shp
