@@ -1,0 +1,3 @@
+penjelasan nomor 10, didapatkan dari pengertian nomor 1 hingga 9 dimana soal pada nomor 10 kita harus membuat kotak dengan julah 7 buah
+dimana kolom yang digunakan hanya 2 yaitu 'kolom 1 & kolom 2' lalu record atau data yang digunakan adalah 7 buah dengan keterangan yang 
+berbeda - beda pada setiap titiknya yang perlu membuat garis Polygon berupa kotak
