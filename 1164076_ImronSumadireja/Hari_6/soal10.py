@@ -13,7 +13,7 @@ w.record("jajargenjang","united")
 w.record("jajargenjang","islan")
 w.record("jajargenjang", "ocean")
 
-w.poly(parts=[[[1,1],[2,3],[5,3],[4,1],[1,1]]], shapeType=shapefile.POLYLINE)   #membentuk koordniat polygone dengan membentuk 2 segitiga sama kaki yang saling berhadapan
+w.poly(parts=[[[1,1],[2,3],[5,3],[4,1],[1,1]]], shapeType=shapefile.POLYLINE)   #membentuk koordniat polygone dengan membentuk 7 buah jajargenjang
 w.poly(parts=[[[4,1],[5,3],[8,3],[7,1],[1,1]]], shapeType=shapefile.POLYLINE)
 w.poly(parts=[[[7,1],[8,3],[11,3],[10,1],[1,1]]], shapeType=shapefile.POLYLINE)
 w.poly(parts=[[[1,-1],[2,-3],[5,-3],[4,-1],[1,-1]]], shapeType=shapefile.POLYLINE)
