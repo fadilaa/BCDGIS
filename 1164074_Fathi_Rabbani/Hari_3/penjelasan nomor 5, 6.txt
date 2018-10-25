@@ -1,0 +1,5 @@
+penjelasan nomor 5, yaitu dari kode yang ditulisan menghasilkan data berupa Polyline yang menhubungkan
+antara titik (1,5), (5,5), (5,1), (3,3), (1,1) namun tidak kembali lagi pada titik (1,5) sehingga menghasilkan Polyline
+
+penjelasan nomor 6, yaitu dari kode yang dituliskan menghasilkan data berupa garis/Line
+antara titik (1,3), (5,3) yang mengambil konsep dari Polyline
